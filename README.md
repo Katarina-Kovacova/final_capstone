@@ -24,5 +24,4 @@ Depending on the choice of action, the following will take place:
 * Tasks can be edited depending on user criteria (change the assigned user, due by date or completion status).  
 * Once the task has been marked as completed it cannot be edited
 
-## Credits
-credits details
+
